@@ -1,3 +1,5 @@
+// Declares the ECG file-reading interface.
+
 #ifndef ECG_READER_H
 #define ECG_READER_H
 

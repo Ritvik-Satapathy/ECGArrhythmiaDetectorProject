@@ -1,3 +1,5 @@
+// Implements Pan-Tompkins-style QRS and R-peak detection.
+
 #include "PeakDetector.h"
 #include <algorithm>
 #include <cmath>

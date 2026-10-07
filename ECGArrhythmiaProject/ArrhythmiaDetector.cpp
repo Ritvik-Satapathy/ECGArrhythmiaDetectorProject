@@ -1,3 +1,6 @@
+// Implements RR, context-aware, and cardiac phase analysis.
+
+
 #include "ArrhythmiaDetector.h"
 #include <algorithm>
 #include <cmath>

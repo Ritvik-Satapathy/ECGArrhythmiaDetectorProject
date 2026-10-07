@@ -1,3 +1,5 @@
+// Main program entry point and user interaction for ECG analysis.
+
 #include "ArrhythmiaDetector.h"
 #include "ECGReader.h"
 #include "ECGSignal.h"

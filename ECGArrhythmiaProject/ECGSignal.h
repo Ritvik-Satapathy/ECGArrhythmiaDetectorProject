@@ -1,3 +1,5 @@
+// Defines the ECG signal data structure used throughout the program.
+
 #ifndef ECG_SIGNAL_H
 #define ECG_SIGNAL_H
 

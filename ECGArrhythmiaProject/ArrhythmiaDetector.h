@@ -1,3 +1,5 @@
+// Declares arrhythmia analysis results and detector interface.
+
 #ifndef ARRHYTHMIA_DETECTOR_H
 #define ARRHYTHMIA_DETECTOR_H
 

@@ -40,4 +40,4 @@ Files changed
 - ArrhythmiaDetector.h
 - main.cpp
 
-The ECG reader and current R-peak detector were intentionally left unchanged.
+Current version includes Pan-Tompkins-style R-peak detection and cardiac phase analysis.
