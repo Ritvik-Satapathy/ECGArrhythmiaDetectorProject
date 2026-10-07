@@ -1,3 +1,5 @@
+// Declares the R-peak detection interface.
+
 #ifndef PEAK_DETECTOR_H
 #define PEAK_DETECTOR_H
 

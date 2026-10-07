@@ -1,3 +1,5 @@
+// Defines patient and activity context used during ECG analysis.
+
 #ifndef PATIENT_CONTEXT_H
 #define PATIENT_CONTEXT_H
 

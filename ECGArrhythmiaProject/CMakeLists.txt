@@ -1,3 +1,5 @@
+# Build configuration for the ECG arrhythmia detection project.
+
 cmake_minimum_required(VERSION 3.20)
 
 project(ECGArrhythmiaProject_ContextAware)
